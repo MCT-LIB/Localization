@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Жүйе тілі</string>
+	<string name="localization_mode_follow_system">Жүйе параметрлерін орындаңыз</string>
+	<string name="localization_mode_light">Жеңіл тақырып</string>
+	<string name="localization_mode_dark">Қараңғы тақырып</string>
+	<string name="localization_theme_red">Қызыл</string>
+	<string name="localization_theme_pink">Қызғылт</string>
+	<string name="localization_theme_purple">Күлгін</string>
+	<string name="localization_theme_deep_purple">Қою күлгін</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Көк</string>
+	<string name="localization_theme_light_blue">Көгілдір</string>
+	<string name="localization_theme_cyan">Көгілдір</string>
+	<string name="localization_theme_teal">Қызғылт</string>
+	<string name="localization_theme_green">Жасыл</string>
+	<string name="localization_theme_light_green">Ашық жасыл</string>
+	<string name="localization_theme_lime">Әк</string>
+	<string name="localization_theme_yellow">Сары</string>
+	<string name="localization_theme_amber">Кәріптас</string>
+	<string name="localization_theme_orange">Апельсин</string>
+	<string name="localization_theme_deep_orange">Қою қызғылт сары</string>
+</resources>

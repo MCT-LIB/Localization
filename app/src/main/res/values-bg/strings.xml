@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Тема</string>
+	<string name="txt_dark_mode">Тъмен режим</string>
+	<string name="txt_language">език</string>
+	<string name="txt_change">промяна</string>
+	<string name="txt_select_theme">Изберете тема</string>
+	<string name="txt_select_dark_mode">Изберете тъмен режим</string>
+	<string name="txt_select_language">Изберете език</string>
+	<string name="txt_cancel">Отказ</string>
+	<string name="txt_save">Запазване</string>
+</resources>

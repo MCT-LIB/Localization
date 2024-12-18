@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">ພາສາລະບົບ</string>
+	<string name="localization_mode_follow_system">ປະຕິບັດຕາມການຕັ້ງຄ່າລະບົບ</string>
+	<string name="localization_mode_light">ຮູບແບບສີສັນແຈ້ງ</string>
+	<string name="localization_mode_dark">ຮູບແບບສີສັນມືດ</string>
+	<string name="localization_theme_red">ສີແດງ</string>
+	<string name="localization_theme_pink">ສີບົວ</string>
+	<string name="localization_theme_purple">ສີມ່ວງ</string>
+	<string name="localization_theme_deep_purple">ສີ​ມ້ວງ​ເຂັ້ມ</string>
+	<string name="localization_theme_indigo">ສີດຳ</string>
+	<string name="localization_theme_blue">ສີຟ້າ</string>
+	<string name="localization_theme_light_blue">ສີຟ້າອ່ອນ</string>
+	<string name="localization_theme_cyan">ສີຟ້າຂຽວ</string>
+	<string name="localization_theme_teal">ສີນ້ຳຕານ</string>
+	<string name="localization_theme_green">ສີຂຽວ</string>
+	<string name="localization_theme_light_green">ສີຂຽວອ່ອນ</string>
+	<string name="localization_theme_lime">ປູນຂາວ</string>
+	<string name="localization_theme_yellow">ສີເຫຼືອງ</string>
+	<string name="localization_theme_amber">ອໍາພັນ</string>
+	<string name="localization_theme_orange">ສີສົ້ມ</string>
+	<string name="localization_theme_deep_orange">ສີສົ້ມເລິກ</string>
+</resources>

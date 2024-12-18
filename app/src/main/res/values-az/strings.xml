@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Mövzu</string>
+	<string name="txt_dark_mode">Qaranlıq rejim</string>
+	<string name="txt_language">Dil</string>
+	<string name="txt_change">Dəyişmək</string>
+	<string name="txt_select_theme">Mövzu seçin</string>
+	<string name="txt_select_dark_mode">Qaranlıq rejimi seçin</string>
+	<string name="txt_select_language">Dil seçin</string>
+	<string name="txt_cancel">Ləğv et</string>
+	<string name="txt_save">Saxla</string>
+</resources>

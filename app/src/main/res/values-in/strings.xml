@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Mode gelap</string>
+	<string name="txt_language">Bahasa</string>
+	<string name="txt_change">Mengubah</string>
+	<string name="txt_select_theme">Pilih tema</string>
+	<string name="txt_select_dark_mode">Pilih mode gelap</string>
+	<string name="txt_select_language">Pilih bahasa</string>
+	<string name="txt_cancel">Membatalkan</string>
+	<string name="txt_save">Menyimpan</string>
+</resources>

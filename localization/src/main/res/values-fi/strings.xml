@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Järjestelmän kieli</string>
+	<string name="localization_mode_follow_system">Seuraa järjestelmäasetuksia</string>
+	<string name="localization_mode_light">Kevyt teema</string>
+	<string name="localization_mode_dark">Tumma teema</string>
+	<string name="localization_theme_red">Punainen</string>
+	<string name="localization_theme_pink">Vaaleanpunainen</string>
+	<string name="localization_theme_purple">Violetti</string>
+	<string name="localization_theme_deep_purple">Syvä violetti</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Sininen</string>
+	<string name="localization_theme_light_blue">Vaaleansininen</string>
+	<string name="localization_theme_cyan">Syaani</string>
+	<string name="localization_theme_teal">Sinivihreä</string>
+	<string name="localization_theme_green">Vihreä</string>
+	<string name="localization_theme_light_green">Vaaleanvihreä</string>
+	<string name="localization_theme_lime">Lime</string>
+	<string name="localization_theme_yellow">Keltainen</string>
+	<string name="localization_theme_amber">Keltainen</string>
+	<string name="localization_theme_orange">Oranssi</string>
+	<string name="localization_theme_deep_orange">Syvä oranssi</string>
+</resources>

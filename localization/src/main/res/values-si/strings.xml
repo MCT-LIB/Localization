@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">පද්ධති භාෂාව</string>
+	<string name="localization_mode_follow_system">පද්ධති සැකසුම් අනුගමනය කරන්න</string>
+	<string name="localization_mode_light">සැහැල්ලු තේමාව</string>
+	<string name="localization_mode_dark">අඳුරු තේමාව</string>
+	<string name="localization_theme_red">රතු</string>
+	<string name="localization_theme_pink">රෝස</string>
+	<string name="localization_theme_purple">දම් පාට</string>
+	<string name="localization_theme_deep_purple">තද දම්</string>
+	<string name="localization_theme_indigo">ඉන්ඩිගෝ</string>
+	<string name="localization_theme_blue">නිල්</string>
+	<string name="localization_theme_light_blue">ලා නිල්</string>
+	<string name="localization_theme_cyan">සයන්</string>
+	<string name="localization_theme_teal">ටීල්</string>
+	<string name="localization_theme_green">කොළ</string>
+	<string name="localization_theme_light_green">ලා කොළ</string>
+	<string name="localization_theme_lime">දෙහි</string>
+	<string name="localization_theme_yellow">කහ</string>
+	<string name="localization_theme_amber">ඇම්බර්</string>
+	<string name="localization_theme_orange">දොඩම්</string>
+	<string name="localization_theme_deep_orange">තද තැඹිලි</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">თემა</string>
+	<string name="txt_dark_mode">მუქი რეჟიმი</string>
+	<string name="txt_language">ენა</string>
+	<string name="txt_change">შეცვლა</string>
+	<string name="txt_select_theme">აირჩიეთ თემა</string>
+	<string name="txt_select_dark_mode">აირჩიეთ მუქი რეჟიმი</string>
+	<string name="txt_select_language">აირჩიეთ ენა</string>
+	<string name="txt_cancel">გაუქმება</string>
+	<string name="txt_save">შენახვა</string>
+</resources>

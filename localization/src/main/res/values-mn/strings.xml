@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Системийн хэл</string>
+	<string name="localization_mode_follow_system">Системийн тохиргоог дагана уу</string>
+	<string name="localization_mode_light">Хөнгөн сэдэв</string>
+	<string name="localization_mode_dark">Харанхуй сэдэв</string>
+	<string name="localization_theme_red">Улаан</string>
+	<string name="localization_theme_pink">Ягаан</string>
+	<string name="localization_theme_purple">Нил ягаан</string>
+	<string name="localization_theme_deep_purple">Гүн ягаан</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Цэнхэр</string>
+	<string name="localization_theme_light_blue">Цайвар цэнхэр</string>
+	<string name="localization_theme_cyan">Цэнхэр</string>
+	<string name="localization_theme_teal">Цайвар</string>
+	<string name="localization_theme_green">Ногоон</string>
+	<string name="localization_theme_light_green">Цайвар ногоон</string>
+	<string name="localization_theme_lime">Шохой</string>
+	<string name="localization_theme_yellow">Шар</string>
+	<string name="localization_theme_amber">Хув</string>
+	<string name="localization_theme_orange">жүрж</string>
+	<string name="localization_theme_deep_orange">Гүн улбар шар</string>
+</resources>

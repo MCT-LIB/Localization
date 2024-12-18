@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">सिस्टम भाषा</string>
+	<string name="localization_mode_follow_system">सिस्टम सेटिंग्स का पालन करें</string>
+	<string name="localization_mode_light">प्रकाश विषय</string>
+	<string name="localization_mode_dark">डार्क थीम</string>
+	<string name="localization_theme_red">लाल</string>
+	<string name="localization_theme_pink">गुलाबी</string>
+	<string name="localization_theme_purple">बैंगनी</string>
+	<string name="localization_theme_deep_purple">गहरा बैंगनी</string>
+	<string name="localization_theme_indigo">नील</string>
+	<string name="localization_theme_blue">नीला</string>
+	<string name="localization_theme_light_blue">हल्का नीला रंग</string>
+	<string name="localization_theme_cyan">सियान</string>
+	<string name="localization_theme_teal">टील</string>
+	<string name="localization_theme_green">हरा</string>
+	<string name="localization_theme_light_green">हल्का हरा</string>
+	<string name="localization_theme_lime">नींबू</string>
+	<string name="localization_theme_yellow">पीला</string>
+	<string name="localization_theme_amber">अंबर</string>
+	<string name="localization_theme_orange">नारंगी</string>
+	<string name="localization_theme_deep_orange">गहरा नारंगी</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Bahasa sistem</string>
+	<string name="localization_mode_follow_system">Ikuti pengaturan sistem</string>
+	<string name="localization_mode_light">Tema ringan</string>
+	<string name="localization_mode_dark">Tema gelap</string>
+	<string name="localization_theme_red">Merah</string>
+	<string name="localization_theme_pink">Merah Jambu</string>
+	<string name="localization_theme_purple">Ungu</string>
+	<string name="localization_theme_deep_purple">Ungu gelap</string>
+	<string name="localization_theme_indigo">Nila</string>
+	<string name="localization_theme_blue">Biru</string>
+	<string name="localization_theme_light_blue">Biru muda</string>
+	<string name="localization_theme_cyan">Sian</string>
+	<string name="localization_theme_teal">teal</string>
+	<string name="localization_theme_green">Hijau</string>
+	<string name="localization_theme_light_green">Hijau muda</string>
+	<string name="localization_theme_lime">jeruk nipis</string>
+	<string name="localization_theme_yellow">Kuning</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Oranye</string>
+	<string name="localization_theme_deep_orange">Oranye tua</string>
+</resources>

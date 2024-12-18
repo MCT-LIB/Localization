@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Системски језик</string>
+	<string name="localization_mode_follow_system">Пратите системска подешавања</string>
+	<string name="localization_mode_light">Светла тема</string>
+	<string name="localization_mode_dark">Мрачна тема</string>
+	<string name="localization_theme_red">Црвени</string>
+	<string name="localization_theme_pink">Пинк</string>
+	<string name="localization_theme_purple">Љубичаста</string>
+	<string name="localization_theme_deep_purple">Дубоко љубичаста</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Плави</string>
+	<string name="localization_theme_light_blue">Светло плава</string>
+	<string name="localization_theme_cyan">Циан</string>
+	<string name="localization_theme_teal">Теал</string>
+	<string name="localization_theme_green">Зелен</string>
+	<string name="localization_theme_light_green">Светло зелена</string>
+	<string name="localization_theme_lime">креч</string>
+	<string name="localization_theme_yellow">Жута</string>
+	<string name="localization_theme_amber">Амбер</string>
+	<string name="localization_theme_orange">Оранге</string>
+	<string name="localization_theme_deep_orange">Дубока наранџаста</string>
+</resources>

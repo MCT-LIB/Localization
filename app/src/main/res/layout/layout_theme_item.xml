@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:padding="4dp"
+        tools:layout_width="120dp">
+
+        <com.mct.localization.demo.common.SquareCardView
+            android:id="@+id/cardRoot"
+            style="?materialCardViewElevatedStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:rippleColor="?colorPrimaryContainer"
+            app:shapeAppearance="@style/ShapeAppearance.Material3.Corner.Full">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <View
+                    android:id="@+id/palettePrimary"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="?colorPrimary" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp" />
+
+                <androidx.appcompat.widget.LinearLayoutCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1">
+
+                    <View
+                        android:id="@+id/paletteSecondary"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?colorSecondary" />
+
+                    <Space
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent" />
+
+                    <View
+                        android:id="@+id/paletteTertiary"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?colorTertiaryContainer" />
+
+                </androidx.appcompat.widget.LinearLayoutCompat>
+
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/ivChecked"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_gravity="center"
+                android:background="?colorPrimaryContainer"
+                android:elevation="1dp"
+                android:src="@drawable/all_ic_checked"
+                app:contentPadding="4dp"
+                app:shapeAppearance="@style/ShapeAppearance.Material3.Corner.Full"
+                app:tint="?colorPrimary" />
+
+        </com.mct.localization.demo.common.SquareCardView>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textAppearance="?textAppearanceBodySmall"
+            tools:text="@tools:sample/lorem" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</layout>

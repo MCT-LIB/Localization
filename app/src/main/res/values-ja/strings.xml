@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">テーマ</string>
+	<string name="txt_dark_mode">ダークモード</string>
+	<string name="txt_language">言語</string>
+	<string name="txt_change">変化</string>
+	<string name="txt_select_theme">テーマの選択</string>
+	<string name="txt_select_dark_mode">ダークモードを選択する</string>
+	<string name="txt_select_language">言語を選択してください</string>
+	<string name="txt_cancel">キャンセル</string>
+	<string name="txt_save">保存</string>
+</resources>

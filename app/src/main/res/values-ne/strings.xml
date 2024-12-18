@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">विषयवस्तु</string>
+	<string name="txt_dark_mode">गाढा मोड</string>
+	<string name="txt_language">भाषा</string>
+	<string name="txt_change">परिवर्तन गर्नुहोस्</string>
+	<string name="txt_select_theme">विषयवस्तु चयन गर्नुहोस्</string>
+	<string name="txt_select_dark_mode">गाढा मोड चयन गर्नुहोस्</string>
+	<string name="txt_select_language">भाषा चयन गर्नुहोस्</string>
+	<string name="txt_cancel">रद्द गर्नुहोस्</string>
+	<string name="txt_save">बचत गर्नुहोस्</string>
+</resources>

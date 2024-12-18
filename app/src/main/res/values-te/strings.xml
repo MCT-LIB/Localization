@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">థీమ్</string>
+	<string name="txt_dark_mode">డార్క్ మోడ్</string>
+	<string name="txt_language">భాష</string>
+	<string name="txt_change">మార్చండి</string>
+	<string name="txt_select_theme">థీమ్‌ని ఎంచుకోండి</string>
+	<string name="txt_select_dark_mode">డార్క్ మోడ్‌ని ఎంచుకోండి</string>
+	<string name="txt_select_language">భాషను ఎంచుకోండి</string>
+	<string name="txt_cancel">రద్దు చేయి</string>
+	<string name="txt_save">సేవ్ చేయండి</string>
+</resources>

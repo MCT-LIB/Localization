@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Systemsprog</string>
+	<string name="localization_mode_follow_system">Følg systemindstillingerne</string>
+	<string name="localization_mode_light">Lys tema</string>
+	<string name="localization_mode_dark">Mørkt tema</string>
+	<string name="localization_theme_red">Rød</string>
+	<string name="localization_theme_pink">Lyserød</string>
+	<string name="localization_theme_purple">Lilla</string>
+	<string name="localization_theme_deep_purple">Mørke lilla</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Blå</string>
+	<string name="localization_theme_light_blue">Lyseblå</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Blågrøn</string>
+	<string name="localization_theme_green">Grøn</string>
+	<string name="localization_theme_light_green">Lysegrøn</string>
+	<string name="localization_theme_lime">Citron</string>
+	<string name="localization_theme_yellow">Gul</string>
+	<string name="localization_theme_amber">Rav</string>
+	<string name="localization_theme_orange">orange</string>
+	<string name="localization_theme_deep_orange">Dyb orange</string>
+</resources>

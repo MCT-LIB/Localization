@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Mandhari</string>
+	<string name="txt_dark_mode">Hali ya giza</string>
+	<string name="txt_language">Lugha</string>
+	<string name="txt_change">Badilika</string>
+	<string name="txt_select_theme">Chagua mandhari</string>
+	<string name="txt_select_dark_mode">Chagua hali ya giza</string>
+	<string name="txt_select_language">Chagua lugha</string>
+	<string name="txt_cancel">Ghairi</string>
+	<string name="txt_save">Hifadhi</string>
+</resources>

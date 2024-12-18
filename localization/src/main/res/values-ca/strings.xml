@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Llenguatge del sistema</string>
+	<string name="localization_mode_follow_system">Seguiu la configuració del sistema</string>
+	<string name="localization_mode_light">Tema lleuger</string>
+	<string name="localization_mode_dark">Tema fosc</string>
+	<string name="localization_theme_red">Vermell</string>
+	<string name="localization_theme_pink">Rosa</string>
+	<string name="localization_theme_purple">Porpra</string>
+	<string name="localization_theme_deep_purple">Lila fosc</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Blau</string>
+	<string name="localization_theme_light_blue">Blau clar</string>
+	<string name="localization_theme_cyan">Cian</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Verd</string>
+	<string name="localization_theme_light_green">Verd clar</string>
+	<string name="localization_theme_lime">Lima</string>
+	<string name="localization_theme_yellow">groc</string>
+	<string name="localization_theme_amber">Ambre</string>
+	<string name="localization_theme_orange">taronja</string>
+	<string name="localization_theme_deep_orange">Taronja profund</string>
+</resources>

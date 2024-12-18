@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">システム言語</string>
+	<string name="localization_mode_follow_system">システム設定に従ってください</string>
+	<string name="localization_mode_light">ライトテーマ</string>
+	<string name="localization_mode_dark">暗いテーマ</string>
+	<string name="localization_theme_red">赤</string>
+	<string name="localization_theme_pink">ピンク</string>
+	<string name="localization_theme_purple">紫</string>
+	<string name="localization_theme_deep_purple">ディープ・パープル</string>
+	<string name="localization_theme_indigo">インジゴ</string>
+	<string name="localization_theme_blue">青</string>
+	<string name="localization_theme_light_blue">ライトブルー</string>
+	<string name="localization_theme_cyan">シアン</string>
+	<string name="localization_theme_teal">ティール</string>
+	<string name="localization_theme_green">緑</string>
+	<string name="localization_theme_light_green">ライトグリーン</string>
+	<string name="localization_theme_lime">ライム</string>
+	<string name="localization_theme_yellow">黄色</string>
+	<string name="localization_theme_amber">アンバー</string>
+	<string name="localization_theme_orange">オレンジ</string>
+	<string name="localization_theme_deep_orange">濃いオレンジ色</string>
+</resources>

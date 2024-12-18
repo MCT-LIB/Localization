@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Системен език</string>
+	<string name="localization_mode_follow_system">Следвайте системните настройки</string>
+	<string name="localization_mode_light">Лека тема</string>
+	<string name="localization_mode_dark">Тъмна тема</string>
+	<string name="localization_theme_red">червен</string>
+	<string name="localization_theme_pink">Розово</string>
+	<string name="localization_theme_purple">Лилаво</string>
+	<string name="localization_theme_deep_purple">Наситено лилаво</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Син</string>
+	<string name="localization_theme_light_blue">Светло синьо</string>
+	<string name="localization_theme_cyan">Циан</string>
+	<string name="localization_theme_teal">Тил</string>
+	<string name="localization_theme_green">зелено</string>
+	<string name="localization_theme_light_green">Светло зелено</string>
+	<string name="localization_theme_lime">Лайм</string>
+	<string name="localization_theme_yellow">Жълто</string>
+	<string name="localization_theme_amber">Амбър</string>
+	<string name="localization_theme_orange">портокал</string>
+	<string name="localization_theme_deep_orange">Наситено оранжево</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">נוֹשֵׂא</string>
+	<string name="txt_dark_mode">מצב כהה</string>
+	<string name="txt_language">שָׂפָה</string>
+	<string name="txt_change">לְשַׁנוֹת</string>
+	<string name="txt_select_theme">בחר ערכת נושא</string>
+	<string name="txt_select_dark_mode">בחר מצב כהה</string>
+	<string name="txt_select_language">בחר שפה</string>
+	<string name="txt_cancel">לְבַטֵל</string>
+	<string name="txt_save">לְהַצִיל</string>
+</resources>

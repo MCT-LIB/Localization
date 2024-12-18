@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">సిస్టమ్ భాష</string>
+	<string name="localization_mode_follow_system">సిస్టమ్ సెట్టింగ్‌లను అనుసరించండి</string>
+	<string name="localization_mode_light">లైట్ థీమ్</string>
+	<string name="localization_mode_dark">చీకటి థీమ్</string>
+	<string name="localization_theme_red">ఎరుపు</string>
+	<string name="localization_theme_pink">పింక్</string>
+	<string name="localization_theme_purple">ఊదా</string>
+	<string name="localization_theme_deep_purple">ముదురు ఊదా రంగు</string>
+	<string name="localization_theme_indigo">నీలిమందు</string>
+	<string name="localization_theme_blue">నీలం</string>
+	<string name="localization_theme_light_blue">లేత నీలం</string>
+	<string name="localization_theme_cyan">నీలవర్ణం</string>
+	<string name="localization_theme_teal">టీల్</string>
+	<string name="localization_theme_green">ఆకుపచ్చ</string>
+	<string name="localization_theme_light_green">లేత ఆకుపచ్చ</string>
+	<string name="localization_theme_lime">సున్నం</string>
+	<string name="localization_theme_yellow">పసుపు</string>
+	<string name="localization_theme_amber">అంబర్</string>
+	<string name="localization_theme_orange">నారింజ రంగు</string>
+	<string name="localization_theme_deep_orange">ముదురు నారింజ</string>
+</resources>

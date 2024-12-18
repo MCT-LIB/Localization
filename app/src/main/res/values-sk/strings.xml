@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Téma</string>
+	<string name="txt_dark_mode">Tmavý režim</string>
+	<string name="txt_language">Jazyk</string>
+	<string name="txt_change">Zmeniť</string>
+	<string name="txt_select_theme">Vyberte tému</string>
+	<string name="txt_select_dark_mode">Vyberte tmavý režim</string>
+	<string name="txt_select_language">Vyberte jazyk</string>
+	<string name="txt_cancel">Zrušiť</string>
+	<string name="txt_save">Uložiť</string>
+</resources>

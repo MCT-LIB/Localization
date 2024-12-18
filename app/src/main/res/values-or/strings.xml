@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">ଥିମ୍</string>
+	<string name="txt_dark_mode">ଗା ark ମୋଡ୍ |</string>
+	<string name="txt_language">ଭାଷା</string>
+	<string name="txt_change">ପରିବର୍ତ୍ତନ କରନ୍ତୁ |</string>
+	<string name="txt_select_theme">ଥିମ୍ ଚୟନ କରନ୍ତୁ |</string>
+	<string name="txt_select_dark_mode">ଗା dark ମୋଡ୍ ଚୟନ କରନ୍ତୁ |</string>
+	<string name="txt_select_language">ଭାଷା ଚୟନ କରନ୍ତୁ |</string>
+	<string name="txt_cancel">ବାତିଲ୍ କରନ୍ତୁ |</string>
+	<string name="txt_save">ସଞ୍ଚୟ କରନ୍ତୁ |</string>
+</resources>

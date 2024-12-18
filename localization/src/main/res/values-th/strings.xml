@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">ภาษาของระบบ</string>
+	<string name="localization_mode_follow_system">ทำตามการตั้งค่าระบบ</string>
+	<string name="localization_mode_light">ธีมแสง</string>
+	<string name="localization_mode_dark">ธีมสีเข้ม</string>
+	<string name="localization_theme_red">สีแดง</string>
+	<string name="localization_theme_pink">สีชมพู</string>
+	<string name="localization_theme_purple">สีม่วง</string>
+	<string name="localization_theme_deep_purple">สีม่วงเข้ม</string>
+	<string name="localization_theme_indigo">คราม</string>
+	<string name="localization_theme_blue">สีฟ้า</string>
+	<string name="localization_theme_light_blue">ฟ้าอ่อน</string>
+	<string name="localization_theme_cyan">สีฟ้า</string>
+	<string name="localization_theme_teal">นกเป็ดน้ำ</string>
+	<string name="localization_theme_green">สีเขียว</string>
+	<string name="localization_theme_light_green">สีเขียวอ่อน</string>
+	<string name="localization_theme_lime">มะนาว</string>
+	<string name="localization_theme_yellow">สีเหลือง</string>
+	<string name="localization_theme_amber">อำพัน</string>
+	<string name="localization_theme_orange">ส้ม</string>
+	<string name="localization_theme_deep_orange">สีส้มเข้ม</string>
+</resources>

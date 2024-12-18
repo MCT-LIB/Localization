@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Mavzu</string>
+	<string name="txt_dark_mode">Qorong\'i rejim</string>
+	<string name="txt_language">Til</string>
+	<string name="txt_change">O\'zgartirish</string>
+	<string name="txt_select_theme">Mavzuni tanlang</string>
+	<string name="txt_select_dark_mode">Qorong\'i rejimni tanlang</string>
+	<string name="txt_select_language">Tilni tanlang</string>
+	<string name="txt_cancel">Bekor qilish</string>
+	<string name="txt_save">Saqlash</string>
+</resources>

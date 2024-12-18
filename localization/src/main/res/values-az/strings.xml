@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Sistem dili</string>
+	<string name="localization_mode_follow_system">Sistem parametrlərini izləyin</string>
+	<string name="localization_mode_light">Yüngül mövzu</string>
+	<string name="localization_mode_dark">Qaranlıq mövzu</string>
+	<string name="localization_theme_red">Qırmızı</string>
+	<string name="localization_theme_pink">Çəhrayı</string>
+	<string name="localization_theme_purple">Bənövşəyi</string>
+	<string name="localization_theme_deep_purple">Tünd bənövşəyi</string>
+	<string name="localization_theme_indigo">İndiqo</string>
+	<string name="localization_theme_blue">Mavi</string>
+	<string name="localization_theme_light_blue">Açıq mavi</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Mavi</string>
+	<string name="localization_theme_green">Yaşıl</string>
+	<string name="localization_theme_light_green">Açıq yaşıl</string>
+	<string name="localization_theme_lime">Əhəng</string>
+	<string name="localization_theme_yellow">Sarı</string>
+	<string name="localization_theme_amber">Ənbər</string>
+	<string name="localization_theme_orange">Narıncı</string>
+	<string name="localization_theme_deep_orange">Tünd narıncı</string>
+</resources>

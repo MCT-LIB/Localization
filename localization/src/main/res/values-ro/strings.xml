@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Limba sistemului</string>
+	<string name="localization_mode_follow_system">Urmați setările sistemului</string>
+	<string name="localization_mode_light">Tema ușoară</string>
+	<string name="localization_mode_dark">Tema întunecată</string>
+	<string name="localization_theme_red">roșu</string>
+	<string name="localization_theme_pink">Roz</string>
+	<string name="localization_theme_purple">Violet</string>
+	<string name="localization_theme_deep_purple">Mov inchis</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Albastru</string>
+	<string name="localization_theme_light_blue">Albastru deschis</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Verde</string>
+	<string name="localization_theme_light_green">Verde deschis</string>
+	<string name="localization_theme_lime">Lămâie verde</string>
+	<string name="localization_theme_yellow">Galben</string>
+	<string name="localization_theme_amber">Chihlimbar</string>
+	<string name="localization_theme_orange">Portocale</string>
+	<string name="localization_theme_deep_orange">Portocaliu intens</string>
+</resources>

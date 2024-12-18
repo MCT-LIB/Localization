@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">সিস্টেম ভাষা</string>
+	<string name="localization_mode_follow_system">সিস্টেম সেটিংস অনুসরণ করুন</string>
+	<string name="localization_mode_light">হালকা থিম</string>
+	<string name="localization_mode_dark">গাঢ় থিম</string>
+	<string name="localization_theme_red">লাল</string>
+	<string name="localization_theme_pink">গোলাপী</string>
+	<string name="localization_theme_purple">বেগুনি</string>
+	<string name="localization_theme_deep_purple">গভীর বেগুনি</string>
+	<string name="localization_theme_indigo">নীল</string>
+	<string name="localization_theme_blue">নীল</string>
+	<string name="localization_theme_light_blue">হালকা নীল</string>
+	<string name="localization_theme_cyan">সায়ান</string>
+	<string name="localization_theme_teal">টিল</string>
+	<string name="localization_theme_green">সবুজ</string>
+	<string name="localization_theme_light_green">হালকা সবুজ</string>
+	<string name="localization_theme_lime">চুন</string>
+	<string name="localization_theme_yellow">হলুদ</string>
+	<string name="localization_theme_amber">অ্যাম্বার</string>
+	<string name="localization_theme_orange">কমলা</string>
+	<string name="localization_theme_deep_orange">গভীর কমলা</string>
+</resources>

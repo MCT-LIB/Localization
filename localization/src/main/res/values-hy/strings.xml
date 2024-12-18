@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Համակարգի լեզու</string>
+	<string name="localization_mode_follow_system">Հետևեք համակարգի կարգավորումներին</string>
+	<string name="localization_mode_light">Թեթև թեմա</string>
+	<string name="localization_mode_dark">Մութ թեմա</string>
+	<string name="localization_theme_red">Կարմիր</string>
+	<string name="localization_theme_pink">Վարդագույն</string>
+	<string name="localization_theme_purple">Մանուշակագույն</string>
+	<string name="localization_theme_deep_purple">Մուգ մանուշակագույն</string>
+	<string name="localization_theme_indigo">Ինդիգո</string>
+	<string name="localization_theme_blue">Կապույտ</string>
+	<string name="localization_theme_light_blue">Բաց կապույտ</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Շագանակագույն</string>
+	<string name="localization_theme_green">Կանաչ</string>
+	<string name="localization_theme_light_green">Բաց կանաչ</string>
+	<string name="localization_theme_lime">Լայմ</string>
+	<string name="localization_theme_yellow">Դեղին</string>
+	<string name="localization_theme_amber">Սաթ</string>
+	<string name="localization_theme_orange">Նարնջագույն</string>
+	<string name="localization_theme_deep_orange">Խորը նարնջագույն</string>
+</resources>

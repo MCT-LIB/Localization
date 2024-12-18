@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Chủ đề</string>
+	<string name="txt_dark_mode">Chế độ tối</string>
+	<string name="txt_language">Ngôn ngữ</string>
+	<string name="txt_change">Thay đổi</string>
+	<string name="txt_select_theme">Chọn chủ đề</string>
+	<string name="txt_select_dark_mode">Chọn chế độ tối</string>
+	<string name="txt_select_language">Chọn ngôn ngữ</string>
+	<string name="txt_cancel">Hủy bỏ</string>
+	<string name="txt_save">Lưu</string>
+</resources>

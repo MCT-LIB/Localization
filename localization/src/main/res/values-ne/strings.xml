@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">प्रणाली भाषा</string>
+	<string name="localization_mode_follow_system">प्रणाली सेटिङहरू पालना गर्नुहोस्</string>
+	<string name="localization_mode_light">हल्का विषयवस्तु</string>
+	<string name="localization_mode_dark">गाढा विषयवस्तु</string>
+	<string name="localization_theme_red">रातो</string>
+	<string name="localization_theme_pink">गुलाबी</string>
+	<string name="localization_theme_purple">बैजनी</string>
+	<string name="localization_theme_deep_purple">गहिरो बैजनी</string>
+	<string name="localization_theme_indigo">इन्डिगो</string>
+	<string name="localization_theme_blue">निलो</string>
+	<string name="localization_theme_light_blue">हल्का निलो</string>
+	<string name="localization_theme_cyan">स्यान</string>
+	<string name="localization_theme_teal">निलो</string>
+	<string name="localization_theme_green">हरियो</string>
+	<string name="localization_theme_light_green">हल्का हरियो</string>
+	<string name="localization_theme_lime">लाइम</string>
+	<string name="localization_theme_yellow">पहेंलो</string>
+	<string name="localization_theme_amber">एम्बर</string>
+	<string name="localization_theme_orange">सुन्तला</string>
+	<string name="localization_theme_deep_orange">गहिरो सुन्तला</string>
+</resources>

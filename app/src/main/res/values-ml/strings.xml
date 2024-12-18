@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">തീം</string>
+	<string name="txt_dark_mode">ഡാർക്ക് മോഡ്</string>
+	<string name="txt_language">ഭാഷ</string>
+	<string name="txt_change">മാറ്റുക</string>
+	<string name="txt_select_theme">തീം തിരഞ്ഞെടുക്കുക</string>
+	<string name="txt_select_dark_mode">ഇരുണ്ട മോഡ് തിരഞ്ഞെടുക്കുക</string>
+	<string name="txt_select_language">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+	<string name="txt_cancel">റദ്ദാക്കുക</string>
+	<string name="txt_save">സംരക്ഷിക്കുക</string>
+</resources>

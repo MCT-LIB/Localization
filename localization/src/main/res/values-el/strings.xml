@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Γλώσσα συστήματος</string>
+	<string name="localization_mode_follow_system">Ακολουθήστε τις ρυθμίσεις συστήματος</string>
+	<string name="localization_mode_light">Ελαφρύ θέμα</string>
+	<string name="localization_mode_dark">Σκοτεινό θέμα</string>
+	<string name="localization_theme_red">το κόκκινο</string>
+	<string name="localization_theme_pink">Ροζ</string>
+	<string name="localization_theme_purple">Μωβ</string>
+	<string name="localization_theme_deep_purple">Βαθύ μωβ</string>
+	<string name="localization_theme_indigo">Ινδικό</string>
+	<string name="localization_theme_blue">Μπλε</string>
+	<string name="localization_theme_light_blue">Γαλάζιο</string>
+	<string name="localization_theme_cyan">κυανό</string>
+	<string name="localization_theme_teal">Βάσκας</string>
+	<string name="localization_theme_green">Πράσινος</string>
+	<string name="localization_theme_light_green">Ανοιχτό πράσινο</string>
+	<string name="localization_theme_lime">Ασβεστος</string>
+	<string name="localization_theme_yellow">Κίτρινος</string>
+	<string name="localization_theme_amber">Κεχριμπάρι</string>
+	<string name="localization_theme_orange">Πορτοκάλι</string>
+	<string name="localization_theme_deep_orange">Βαθύ πορτοκαλί</string>
+</resources>

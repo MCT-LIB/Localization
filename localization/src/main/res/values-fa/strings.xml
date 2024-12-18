@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">زبان سیستم</string>
+	<string name="localization_mode_follow_system">تنظیمات سیستم را دنبال کنید</string>
+	<string name="localization_mode_light">تم سبک</string>
+	<string name="localization_mode_dark">تم تاریک</string>
+	<string name="localization_theme_red">قرمز</string>
+	<string name="localization_theme_pink">رنگ صورتی</string>
+	<string name="localization_theme_purple">رنگ بنفش</string>
+	<string name="localization_theme_deep_purple">بنفش پر رنگ</string>
+	<string name="localization_theme_indigo">نیل</string>
+	<string name="localization_theme_blue">آبی</string>
+	<string name="localization_theme_light_blue">آبی کمرنگ</string>
+	<string name="localization_theme_cyan">فیروزه ای</string>
+	<string name="localization_theme_teal">آبی رنگ</string>
+	<string name="localization_theme_green">سبز</string>
+	<string name="localization_theme_light_green">سبز روشن</string>
+	<string name="localization_theme_lime">اهک</string>
+	<string name="localization_theme_yellow">رنگ زرد</string>
+	<string name="localization_theme_amber">کهربا</string>
+	<string name="localization_theme_orange">نارنجی</string>
+	<string name="localization_theme_deep_orange">نارنجی پررنگ</string>
+</resources>

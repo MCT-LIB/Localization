@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">ຫົວຂໍ້</string>
+	<string name="txt_dark_mode">ໂໝດມືດ</string>
+	<string name="txt_language">ພາສາ</string>
+	<string name="txt_change">ປ່ຽນແປງ</string>
+	<string name="txt_select_theme">ເລືອກຫົວຂໍ້</string>
+	<string name="txt_select_dark_mode">ເລືອກໂໝດມືດ</string>
+	<string name="txt_select_language">ເລືອກພາສາ</string>
+	<string name="txt_cancel">ຍົກເລີກ</string>
+	<string name="txt_save">ບັນທຶກ</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Þema</string>
+	<string name="txt_dark_mode">Dökk stilling</string>
+	<string name="txt_language">Tungumál</string>
+	<string name="txt_change">Breyta</string>
+	<string name="txt_select_theme">Veldu þema</string>
+	<string name="txt_select_dark_mode">Veldu dökka stillingu</string>
+	<string name="txt_select_language">Veldu tungumál</string>
+	<string name="txt_cancel">Hætta við</string>
+	<string name="txt_save">Vista</string>
+</resources>

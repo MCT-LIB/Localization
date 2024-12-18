@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">სისტემის ენა</string>
+	<string name="localization_mode_follow_system">მიჰყევით სისტემის პარამეტრებს</string>
+	<string name="localization_mode_light">მსუბუქი თემა</string>
+	<string name="localization_mode_dark">მუქი თემა</string>
+	<string name="localization_theme_red">წითელი</string>
+	<string name="localization_theme_pink">ვარდისფერი</string>
+	<string name="localization_theme_purple">იასამნისფერი</string>
+	<string name="localization_theme_deep_purple">Დიფ ფარფლი</string>
+	<string name="localization_theme_indigo">ინდიგო</string>
+	<string name="localization_theme_blue">ლურჯი</string>
+	<string name="localization_theme_light_blue">Ცისფერი</string>
+	<string name="localization_theme_cyan">ციანი</string>
+	<string name="localization_theme_teal">ჩაისფერი</string>
+	<string name="localization_theme_green">მწვანე</string>
+	<string name="localization_theme_light_green">Ღია მწვანე</string>
+	<string name="localization_theme_lime">ცაცხვი</string>
+	<string name="localization_theme_yellow">ყვითელი</string>
+	<string name="localization_theme_amber">ქარვა</string>
+	<string name="localization_theme_orange">ნარინჯისფერი</string>
+	<string name="localization_theme_deep_orange">ღრმა ნარინჯისფერი</string>
+</resources>

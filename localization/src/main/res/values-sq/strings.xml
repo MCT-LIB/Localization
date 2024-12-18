@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Gjuha e sistemit</string>
+	<string name="localization_mode_follow_system">Ndiqni cilësimet e sistemit</string>
+	<string name="localization_mode_light">Tema e lehtë</string>
+	<string name="localization_mode_dark">Tema e errët</string>
+	<string name="localization_theme_red">E kuqe</string>
+	<string name="localization_theme_pink">Rozë</string>
+	<string name="localization_theme_purple">Vjollcë</string>
+	<string name="localization_theme_deep_purple">Vjollcë e thellë</string>
+	<string name="localization_theme_indigo">Lejla</string>
+	<string name="localization_theme_blue">Blu</string>
+	<string name="localization_theme_light_blue">Blu e hapur</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">E gjelbër</string>
+	<string name="localization_theme_light_green">Jeshile e hapur</string>
+	<string name="localization_theme_lime">Gëlqere</string>
+	<string name="localization_theme_yellow">E verdhe</string>
+	<string name="localization_theme_amber">Qelibar</string>
+	<string name="localization_theme_orange">portokalli</string>
+	<string name="localization_theme_deep_orange">Portokalli e thellë</string>
+</resources>

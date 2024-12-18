@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">အပြင်အဆင်</string>
+	<string name="txt_dark_mode">အမှောင်မုဒ်</string>
+	<string name="txt_language">ဘာသာစကား</string>
+	<string name="txt_change">ပြောင်းလဲပါ။</string>
+	<string name="txt_select_theme">အပြင်အဆင်ကို ရွေးပါ။</string>
+	<string name="txt_select_dark_mode">အမှောင်မုဒ်ကို ရွေးပါ။</string>
+	<string name="txt_select_language">ဘာသာစကားကို ရွေးပါ။</string>
+	<string name="txt_cancel">မလုပ်တော့</string>
+	<string name="txt_save">သိမ်းဆည်းပါ။</string>
+</resources>

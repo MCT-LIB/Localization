@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Süsteemi keel</string>
+	<string name="localization_mode_follow_system">Järgige süsteemi sätteid</string>
+	<string name="localization_mode_light">Kerge teema</string>
+	<string name="localization_mode_dark">Tume teema</string>
+	<string name="localization_theme_red">Punane</string>
+	<string name="localization_theme_pink">Roosa</string>
+	<string name="localization_theme_purple">Lilla</string>
+	<string name="localization_theme_deep_purple">Sügavlilla</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Sinine</string>
+	<string name="localization_theme_light_blue">Helesinine</string>
+	<string name="localization_theme_cyan">Tsüaan</string>
+	<string name="localization_theme_teal">Sinine</string>
+	<string name="localization_theme_green">Roheline</string>
+	<string name="localization_theme_light_green">Heleroheline</string>
+	<string name="localization_theme_lime">Laim</string>
+	<string name="localization_theme_yellow">Kollane</string>
+	<string name="localization_theme_amber">Merevaik</string>
+	<string name="localization_theme_orange">Oranž</string>
+	<string name="localization_theme_deep_orange">Sügav oranž</string>
+</resources>

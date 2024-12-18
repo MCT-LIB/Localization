@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Teema</string>
+	<string name="txt_dark_mode">Tume režiim</string>
+	<string name="txt_language">Keel</string>
+	<string name="txt_change">Muuda</string>
+	<string name="txt_select_theme">Valige teema</string>
+	<string name="txt_select_dark_mode">Valige tume režiim</string>
+	<string name="txt_select_language">Valige keel</string>
+	<string name="txt_cancel">Tühista</string>
+	<string name="txt_save">Salvesta</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">主题</string>
+	<string name="txt_dark_mode">深色模式</string>
+	<string name="txt_language">语言</string>
+	<string name="txt_change">改变</string>
+	<string name="txt_select_theme">选择主题</string>
+	<string name="txt_select_dark_mode">选择深色模式</string>
+	<string name="txt_select_language">选择语言</string>
+	<string name="txt_cancel">取消</string>
+	<string name="txt_save">节省</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">سسٹم کی زبان</string>
+	<string name="localization_mode_follow_system">سسٹم کی ترتیبات پر عمل کریں۔</string>
+	<string name="localization_mode_light">ہلکی تھیم</string>
+	<string name="localization_mode_dark">ڈارک تھیم</string>
+	<string name="localization_theme_red">سرخ</string>
+	<string name="localization_theme_pink">گلابی</string>
+	<string name="localization_theme_purple">جامنی</string>
+	<string name="localization_theme_deep_purple">گہرے جامنی رنگ</string>
+	<string name="localization_theme_indigo">انڈگو</string>
+	<string name="localization_theme_blue">نیلا</string>
+	<string name="localization_theme_light_blue">ہلکے نیلے رنگ کے</string>
+	<string name="localization_theme_cyan">سیان</string>
+	<string name="localization_theme_teal">ٹیل</string>
+	<string name="localization_theme_green">سبز</string>
+	<string name="localization_theme_light_green">ہلکا سبز</string>
+	<string name="localization_theme_lime">لیموں</string>
+	<string name="localization_theme_yellow">پیلا</string>
+	<string name="localization_theme_amber">امبر</string>
+	<string name="localization_theme_orange">کینو</string>
+	<string name="localization_theme_deep_orange">گہرا نارنجی</string>
+</resources>

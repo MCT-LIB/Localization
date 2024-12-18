@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">שפת מערכת</string>
+	<string name="localization_mode_follow_system">עקוב אחר הגדרות המערכת</string>
+	<string name="localization_mode_light">נושא קליל</string>
+	<string name="localization_mode_dark">ערכת נושא כהה</string>
+	<string name="localization_theme_red">אָדוֹם</string>
+	<string name="localization_theme_pink">וָרוֹד</string>
+	<string name="localization_theme_purple">סָגוֹל</string>
+	<string name="localization_theme_deep_purple">סגול עמוק</string>
+	<string name="localization_theme_indigo">אִינדִיגוֹ</string>
+	<string name="localization_theme_blue">כְּחוֹל</string>
+	<string name="localization_theme_light_blue">כחול בהיר</string>
+	<string name="localization_theme_cyan">טורקיז</string>
+	<string name="localization_theme_teal">ירוק כחלחל</string>
+	<string name="localization_theme_green">ירוק</string>
+	<string name="localization_theme_light_green">ירוק בהיר</string>
+	<string name="localization_theme_lime">ליים</string>
+	<string name="localization_theme_yellow">צהוב</string>
+	<string name="localization_theme_amber">עַנבָּר</string>
+	<string name="localization_theme_orange">תפוז</string>
+	<string name="localization_theme_deep_orange">כתום עמוק</string>
+</resources>

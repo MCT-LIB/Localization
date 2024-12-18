@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">தீம்</string>
+	<string name="txt_dark_mode">இருண்ட பயன்முறை</string>
+	<string name="txt_language">மொழி</string>
+	<string name="txt_change">மாற்றவும்</string>
+	<string name="txt_select_theme">தீம் தேர்ந்தெடுக்கவும்</string>
+	<string name="txt_select_dark_mode">இருண்ட பயன்முறையைத் தேர்ந்தெடுக்கவும்</string>
+	<string name="txt_select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+	<string name="txt_cancel">ரத்து செய்</string>
+	<string name="txt_save">சேமிக்கவும்</string>
+</resources>

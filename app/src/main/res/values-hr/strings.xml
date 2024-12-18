@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Tamni način rada</string>
+	<string name="txt_language">Jezik</string>
+	<string name="txt_change">Promijeniti</string>
+	<string name="txt_select_theme">Odaberite temu</string>
+	<string name="txt_select_dark_mode">Odaberite tamni način rada</string>
+	<string name="txt_select_language">Odaberite jezik</string>
+	<string name="txt_cancel">Otkazati</string>
+	<string name="txt_save">Uštedjeti</string>
+</resources>

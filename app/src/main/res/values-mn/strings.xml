@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Сэдэв</string>
+	<string name="txt_dark_mode">Харанхуй горим</string>
+	<string name="txt_language">Хэл</string>
+	<string name="txt_change">Өөрчлөх</string>
+	<string name="txt_select_theme">Загвар сонгох</string>
+	<string name="txt_select_dark_mode">Харанхуй горимыг сонгоно уу</string>
+	<string name="txt_select_language">Хэл сонгоно уу</string>
+	<string name="txt_cancel">Цуцлах</string>
+	<string name="txt_save">Хадгалах</string>
+</resources>

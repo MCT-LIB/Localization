@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Teema</string>
+	<string name="txt_dark_mode">Tumma tila</string>
+	<string name="txt_language">Kieli</string>
+	<string name="txt_change">Muuttaa</string>
+	<string name="txt_select_theme">Valitse teema</string>
+	<string name="txt_select_dark_mode">Valitse tumma tila</string>
+	<string name="txt_select_language">Valitse kieli</string>
+	<string name="txt_cancel">Peruuttaa</string>
+	<string name="txt_save">Tallentaa</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Itimu</string>
+	<string name="txt_dark_mode">Imodi emnyama</string>
+	<string name="txt_language">Ulimi</string>
+	<string name="txt_change">Shintsha</string>
+	<string name="txt_select_theme">Khetha itimu</string>
+	<string name="txt_select_dark_mode">Khetha imodi emnyama</string>
+	<string name="txt_select_language">Khetha ulimi</string>
+	<string name="txt_cancel">Khansela</string>
+	<string name="txt_save">Londoloza</string>
+</resources>

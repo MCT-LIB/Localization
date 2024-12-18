@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Systemspråk</string>
+	<string name="localization_mode_follow_system">Följ systeminställningarna</string>
+	<string name="localization_mode_light">Lätt tema</string>
+	<string name="localization_mode_dark">Mörkt tema</string>
+	<string name="localization_theme_red">Röd</string>
+	<string name="localization_theme_pink">Rosa</string>
+	<string name="localization_theme_purple">Lila</string>
+	<string name="localization_theme_deep_purple">Djup lila</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Blå</string>
+	<string name="localization_theme_light_blue">Ljusblå</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Kricka</string>
+	<string name="localization_theme_green">Grön</string>
+	<string name="localization_theme_light_green">Ljusgrön</string>
+	<string name="localization_theme_lime">Kalk</string>
+	<string name="localization_theme_yellow">Gul</string>
+	<string name="localization_theme_amber">Bärnsten</string>
+	<string name="localization_theme_orange">Orange</string>
+	<string name="localization_theme_deep_orange">Djupt orange</string>
+</resources>

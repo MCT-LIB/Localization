@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Modaliteti i errët</string>
+	<string name="txt_language">Gjuha</string>
+	<string name="txt_change">Ndryshimi</string>
+	<string name="txt_select_theme">Zgjidhni temën</string>
+	<string name="txt_select_dark_mode">Zgjidhni modalitetin e errët</string>
+	<string name="txt_select_language">Zgjidhni gjuhën</string>
+	<string name="txt_cancel">Anulo</string>
+	<string name="txt_save">Ruaj</string>
+</resources>

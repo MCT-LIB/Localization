@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Sistemos kalba</string>
+	<string name="localization_mode_follow_system">Sekite sistemos nustatymus</string>
+	<string name="localization_mode_light">Šviesos tema</string>
+	<string name="localization_mode_dark">Tamsi tema</string>
+	<string name="localization_theme_red">Raudona</string>
+	<string name="localization_theme_pink">Rožinis</string>
+	<string name="localization_theme_purple">Violetinė</string>
+	<string name="localization_theme_deep_purple">Tamsiai violetinė</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Mėlyna</string>
+	<string name="localization_theme_light_blue">Šviesiai mėlynas</string>
+	<string name="localization_theme_cyan">Žydra spalva</string>
+	<string name="localization_theme_teal">žalsvai mėlyna</string>
+	<string name="localization_theme_green">Žalias</string>
+	<string name="localization_theme_light_green">Šviesiai žalia</string>
+	<string name="localization_theme_lime">Kalkės</string>
+	<string name="localization_theme_yellow">Geltona</string>
+	<string name="localization_theme_amber">Gintaras</string>
+	<string name="localization_theme_orange">Oranžinė</string>
+	<string name="localization_theme_deep_orange">Giliai oranžinė</string>
+</resources>

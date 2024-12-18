@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Θέμα</string>
+	<string name="txt_dark_mode">Σκοτεινή λειτουργία</string>
+	<string name="txt_language">Γλώσσα</string>
+	<string name="txt_change">Αλλαγή</string>
+	<string name="txt_select_theme">Επιλέξτε θέμα</string>
+	<string name="txt_select_dark_mode">Επιλέξτε σκοτεινή λειτουργία</string>
+	<string name="txt_select_language">Επιλέξτε γλώσσα</string>
+	<string name="txt_cancel">Ματαίωση</string>
+	<string name="txt_save">Εκτός</string>
+</resources>

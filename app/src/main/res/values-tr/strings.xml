@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Karanlık mod</string>
+	<string name="txt_language">Dil</string>
+	<string name="txt_change">Değiştirmek</string>
+	<string name="txt_select_theme">Tema seç</string>
+	<string name="txt_select_dark_mode">Karanlık modu seçin</string>
+	<string name="txt_select_language">Dil seçin</string>
+	<string name="txt_cancel">İptal etmek</string>
+	<string name="txt_save">Kaydetmek</string>
+</resources>

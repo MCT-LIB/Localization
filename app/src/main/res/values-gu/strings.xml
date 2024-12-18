@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">થીમ</string>
+	<string name="txt_dark_mode">ડાર્ક મોડ</string>
+	<string name="txt_language">ભાષા</string>
+	<string name="txt_change">બદલો</string>
+	<string name="txt_select_theme">થીમ પસંદ કરો</string>
+	<string name="txt_select_dark_mode">ડાર્ક મોડ પસંદ કરો</string>
+	<string name="txt_select_language">ભાષા પસંદ કરો</string>
+	<string name="txt_cancel">રદ કરો</string>
+	<string name="txt_save">સાચવો</string>
+</resources>

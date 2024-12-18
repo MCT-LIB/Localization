@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">系统语言</string>
+	<string name="localization_mode_follow_system">遵循系统设置</string>
+	<string name="localization_mode_light">浅色主题</string>
+	<string name="localization_mode_dark">深色主题</string>
+	<string name="localization_theme_red">红色的</string>
+	<string name="localization_theme_pink">粉色的</string>
+	<string name="localization_theme_purple">紫色的</string>
+	<string name="localization_theme_deep_purple">深紫色</string>
+	<string name="localization_theme_indigo">靛青</string>
+	<string name="localization_theme_blue">蓝色的</string>
+	<string name="localization_theme_light_blue">浅蓝色</string>
+	<string name="localization_theme_cyan">青色</string>
+	<string name="localization_theme_teal">青色</string>
+	<string name="localization_theme_green">绿色的</string>
+	<string name="localization_theme_light_green">浅绿色</string>
+	<string name="localization_theme_lime">酸橙</string>
+	<string name="localization_theme_yellow">黄色的</string>
+	<string name="localization_theme_amber">琥珀色</string>
+	<string name="localization_theme_orange">橙子</string>
+	<string name="localization_theme_deep_orange">深橙色</string>
+</resources>

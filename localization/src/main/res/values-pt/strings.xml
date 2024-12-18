@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Idioma do sistema</string>
+	<string name="localization_mode_follow_system">Siga as configurações do sistema</string>
+	<string name="localization_mode_light">Tema claro</string>
+	<string name="localization_mode_dark">Tema escuro</string>
+	<string name="localization_theme_red">Vermelho</string>
+	<string name="localization_theme_pink">Rosa</string>
+	<string name="localization_theme_purple">Roxo</string>
+	<string name="localization_theme_deep_purple">Roxo profundo</string>
+	<string name="localization_theme_indigo">Índigo</string>
+	<string name="localization_theme_blue">Azul</string>
+	<string name="localization_theme_light_blue">Azul claro</string>
+	<string name="localization_theme_cyan">Ciano</string>
+	<string name="localization_theme_teal">Cerceta</string>
+	<string name="localization_theme_green">Verde</string>
+	<string name="localization_theme_light_green">Luz verde</string>
+	<string name="localization_theme_lime">Lima</string>
+	<string name="localization_theme_yellow">Amarelo</string>
+	<string name="localization_theme_amber">Âmbar</string>
+	<string name="localization_theme_orange">Laranja</string>
+	<string name="localization_theme_deep_orange">Laranja profundo</string>
+</resources>

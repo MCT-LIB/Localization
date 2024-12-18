@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">സിസ്റ്റം ഭാഷ</string>
+	<string name="localization_mode_follow_system">സിസ്റ്റം ക്രമീകരണങ്ങൾ പിന്തുടരുക</string>
+	<string name="localization_mode_light">ലൈറ്റ് തീം</string>
+	<string name="localization_mode_dark">ഇരുണ്ട തീം</string>
+	<string name="localization_theme_red">ചുവപ്പ്</string>
+	<string name="localization_theme_pink">പിങ്ക്</string>
+	<string name="localization_theme_purple">പർപ്പിൾ</string>
+	<string name="localization_theme_deep_purple">കടും പർപ്പിൾ</string>
+	<string name="localization_theme_indigo">ഇൻഡിഗോ</string>
+	<string name="localization_theme_blue">നീല</string>
+	<string name="localization_theme_light_blue">ഇളം നീല</string>
+	<string name="localization_theme_cyan">സിയാൻ</string>
+	<string name="localization_theme_teal">ടീൽ</string>
+	<string name="localization_theme_green">പച്ച</string>
+	<string name="localization_theme_light_green">ഇളം പച്ച</string>
+	<string name="localization_theme_lime">നാരങ്ങ</string>
+	<string name="localization_theme_yellow">മഞ്ഞ</string>
+	<string name="localization_theme_amber">ആമ്പർ</string>
+	<string name="localization_theme_orange">ഓറഞ്ച്</string>
+	<string name="localization_theme_deep_orange">കടും ഓറഞ്ച്</string>
+</resources>

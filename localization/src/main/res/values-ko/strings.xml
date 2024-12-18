@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">시스템 언어</string>
+	<string name="localization_mode_follow_system">시스템 설정을 따르세요</string>
+	<string name="localization_mode_light">밝은 테마</string>
+	<string name="localization_mode_dark">어두운 테마</string>
+	<string name="localization_theme_red">빨간색</string>
+	<string name="localization_theme_pink">분홍색</string>
+	<string name="localization_theme_purple">보라</string>
+	<string name="localization_theme_deep_purple">딥 퍼플</string>
+	<string name="localization_theme_indigo">남빛</string>
+	<string name="localization_theme_blue">파란색</string>
+	<string name="localization_theme_light_blue">하늘색</string>
+	<string name="localization_theme_cyan">청록색</string>
+	<string name="localization_theme_teal">물오리</string>
+	<string name="localization_theme_green">녹색</string>
+	<string name="localization_theme_light_green">연한 초록색</string>
+	<string name="localization_theme_lime">라임</string>
+	<string name="localization_theme_yellow">노란색</string>
+	<string name="localization_theme_amber">호박색</string>
+	<string name="localization_theme_orange">주황색</string>
+	<string name="localization_theme_deep_orange">딥 오렌지</string>
+</resources>

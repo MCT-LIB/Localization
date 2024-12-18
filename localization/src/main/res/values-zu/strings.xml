@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Ulimi lwesistimu</string>
+	<string name="localization_mode_follow_system">Landela izilungiselelo zesistimu</string>
+	<string name="localization_mode_light">Itimu ekhanyayo</string>
+	<string name="localization_mode_dark">Itimu emnyama</string>
+	<string name="localization_theme_red">Okubomvu</string>
+	<string name="localization_theme_pink">Pink</string>
+	<string name="localization_theme_purple">Okunsomi</string>
+	<string name="localization_theme_deep_purple">U deep purple</string>
+	<string name="localization_theme_indigo">I-Indigo</string>
+	<string name="localization_theme_blue">Okuluhlaza okwesibhakabhaka</string>
+	<string name="localization_theme_light_blue">Okuluhlaza okwesibhakabhaka okukhanyayo</string>
+	<string name="localization_theme_cyan">I-Cyan</string>
+	<string name="localization_theme_teal">I-Teal</string>
+	<string name="localization_theme_green">Okuhlaza</string>
+	<string name="localization_theme_light_green">Okuluhlaza okukhanyayo</string>
+	<string name="localization_theme_lime">Eluhlaza</string>
+	<string name="localization_theme_yellow">Okuphuzi</string>
+	<string name="localization_theme_amber">Inhlaka</string>
+	<string name="localization_theme_orange">iwolintshi</string>
+	<string name="localization_theme_deep_orange">Okusawolintshi okujulile</string>
+</resources>

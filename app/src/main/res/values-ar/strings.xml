@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">سمة</string>
+	<string name="txt_dark_mode">الوضع المظلم</string>
+	<string name="txt_language">لغة</string>
+	<string name="txt_change">يتغير</string>
+	<string name="txt_select_theme">حدد الموضوع</string>
+	<string name="txt_select_dark_mode">حدد الوضع المظلم</string>
+	<string name="txt_select_language">اختر اللغة</string>
+	<string name="txt_cancel">يلغي</string>
+	<string name="txt_save">يحفظ</string>
+</resources>

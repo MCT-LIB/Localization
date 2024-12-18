@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">የስርዓት ቋንቋ</string>
+	<string name="localization_mode_follow_system">የስርዓት ቅንብሮችን ይከተሉ</string>
+	<string name="localization_mode_light">ፈካ ያለ ጭብጥ</string>
+	<string name="localization_mode_dark">ጨለማ ጭብጥ</string>
+	<string name="localization_theme_red">ቀይ</string>
+	<string name="localization_theme_pink">ሮዝ</string>
+	<string name="localization_theme_purple">ሐምራዊ</string>
+	<string name="localization_theme_deep_purple">ጥልቅ ሐምራዊ</string>
+	<string name="localization_theme_indigo">ኢንዲጎ</string>
+	<string name="localization_theme_blue">ሰማያዊ</string>
+	<string name="localization_theme_light_blue">ዉሃ ሰማያዊ</string>
+	<string name="localization_theme_cyan">ሲያን</string>
+	<string name="localization_theme_teal">ሻይ</string>
+	<string name="localization_theme_green">አረንጓዴ</string>
+	<string name="localization_theme_light_green">ነጣ ያለ አረንጉአዴ</string>
+	<string name="localization_theme_lime">ሎሚ</string>
+	<string name="localization_theme_yellow">ቢጫ</string>
+	<string name="localization_theme_amber">አምበር</string>
+	<string name="localization_theme_orange">ብርቱካናማ</string>
+	<string name="localization_theme_deep_orange">ጥልቅ ብርቱካንማ</string>
+</resources>

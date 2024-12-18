@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">ጭብጥ</string>
+	<string name="txt_dark_mode">ጨለማ ሁነታ</string>
+	<string name="txt_language">ቋንቋ</string>
+	<string name="txt_change">ለውጥ</string>
+	<string name="txt_select_theme">ገጽታ ይምረጡ</string>
+	<string name="txt_select_dark_mode">ጨለማ ሁነታን ይምረጡ</string>
+	<string name="txt_select_language">ቋንቋ ይምረጡ</string>
+	<string name="txt_cancel">ሰርዝ</string>
+	<string name="txt_save">አስቀምጥ</string>
+</resources>

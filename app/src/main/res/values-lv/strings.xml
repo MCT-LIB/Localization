@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tēma</string>
+	<string name="txt_dark_mode">Tumšais režīms</string>
+	<string name="txt_language">Valoda</string>
+	<string name="txt_change">Mainīt</string>
+	<string name="txt_select_theme">Izvēlieties tēmu</string>
+	<string name="txt_select_dark_mode">Izvēlieties tumšo režīmu</string>
+	<string name="txt_select_language">Izvēlieties valodu</string>
+	<string name="txt_cancel">Atcelt</string>
+	<string name="txt_save">Saglabāt</string>
+</resources>

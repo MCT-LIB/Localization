@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">સિસ્ટમ ભાષા</string>
+	<string name="localization_mode_follow_system">સિસ્ટમ સેટિંગ્સ અનુસરો</string>
+	<string name="localization_mode_light">લાઇટ થીમ</string>
+	<string name="localization_mode_dark">ડાર્ક થીમ</string>
+	<string name="localization_theme_red">લાલ</string>
+	<string name="localization_theme_pink">ગુલાબી</string>
+	<string name="localization_theme_purple">જાંબલી</string>
+	<string name="localization_theme_deep_purple">ઊંડા જાંબલી</string>
+	<string name="localization_theme_indigo">ઈન્ડિગો</string>
+	<string name="localization_theme_blue">વાદળી</string>
+	<string name="localization_theme_light_blue">પ્રકાશ વાદળી</string>
+	<string name="localization_theme_cyan">સ્યાન</string>
+	<string name="localization_theme_teal">ટીલ</string>
+	<string name="localization_theme_green">લીલા</string>
+	<string name="localization_theme_light_green">આછો લીલો</string>
+	<string name="localization_theme_lime">ચૂનો</string>
+	<string name="localization_theme_yellow">પીળો</string>
+	<string name="localization_theme_amber">અંબર</string>
+	<string name="localization_theme_orange">નારંગી</string>
+	<string name="localization_theme_deep_orange">ડીપ નારંગી</string>
+</resources>

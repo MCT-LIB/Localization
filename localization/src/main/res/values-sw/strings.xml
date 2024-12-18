@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Lugha ya mfumo</string>
+	<string name="localization_mode_follow_system">Fuata mipangilio ya mfumo</string>
+	<string name="localization_mode_light">Mandhari nyepesi</string>
+	<string name="localization_mode_dark">Mandhari meusi</string>
+	<string name="localization_theme_red">Nyekundu</string>
+	<string name="localization_theme_pink">Pink</string>
+	<string name="localization_theme_purple">Zambarau</string>
+	<string name="localization_theme_deep_purple">Zambarau ya kina</string>
+	<string name="localization_theme_indigo">Kihindi</string>
+	<string name="localization_theme_blue">Bluu</string>
+	<string name="localization_theme_light_blue">Bluu nyepesi</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Kijani</string>
+	<string name="localization_theme_light_green">Mwanga wa kijani</string>
+	<string name="localization_theme_lime">Chokaa</string>
+	<string name="localization_theme_yellow">Njano</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Chungwa</string>
+	<string name="localization_theme_deep_orange">Chungwa kirefu</string>
+</resources>

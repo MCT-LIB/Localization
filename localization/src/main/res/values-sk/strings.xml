@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Systémový jazyk</string>
+	<string name="localization_mode_follow_system">Postupujte podľa systémových nastavení</string>
+	<string name="localization_mode_light">Svetlá téma</string>
+	<string name="localization_mode_dark">Tmavá téma</string>
+	<string name="localization_theme_red">Červená</string>
+	<string name="localization_theme_pink">Ružová</string>
+	<string name="localization_theme_purple">Fialová</string>
+	<string name="localization_theme_deep_purple">Tmavofialová</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Modrá</string>
+	<string name="localization_theme_light_blue">Svetlo modrá</string>
+	<string name="localization_theme_cyan">Tyrkysový</string>
+	<string name="localization_theme_teal">Modrozelený</string>
+	<string name="localization_theme_green">zelená</string>
+	<string name="localization_theme_light_green">Svetlo zelená</string>
+	<string name="localization_theme_lime">Limetka</string>
+	<string name="localization_theme_yellow">žltá</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Oranžová</string>
+	<string name="localization_theme_deep_orange">Sýto oranžová</string>
+</resources>

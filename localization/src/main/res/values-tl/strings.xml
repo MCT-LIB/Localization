@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Wika ng sistema</string>
+	<string name="localization_mode_follow_system">Sundin ang mga setting ng system</string>
+	<string name="localization_mode_light">Banayad na tema</string>
+	<string name="localization_mode_dark">Madilim na tema</string>
+	<string name="localization_theme_red">Pula</string>
+	<string name="localization_theme_pink">Pink</string>
+	<string name="localization_theme_purple">Lila</string>
+	<string name="localization_theme_deep_purple">Malalim na lila</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Asul</string>
+	<string name="localization_theme_light_blue">Banayad na asul</string>
+	<string name="localization_theme_cyan">Cyan</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Berde</string>
+	<string name="localization_theme_light_green">Banayad na berde</string>
+	<string name="localization_theme_lime">kalamansi</string>
+	<string name="localization_theme_yellow">Dilaw</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Kahel</string>
+	<string name="localization_theme_deep_orange">Madilim na kahel</string>
+</resources>

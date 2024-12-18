@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Jezik sustava</string>
+	<string name="localization_mode_follow_system">Slijedite postavke sustava</string>
+	<string name="localization_mode_light">Lagana tema</string>
+	<string name="localization_mode_dark">Tamna tema</string>
+	<string name="localization_theme_red">Crvena</string>
+	<string name="localization_theme_pink">Ružičasta</string>
+	<string name="localization_theme_purple">Ljubičasta</string>
+	<string name="localization_theme_deep_purple">Tamno ljubičasta</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Plava</string>
+	<string name="localization_theme_light_blue">Svijetlo plava</string>
+	<string name="localization_theme_cyan">cijan</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">zelena</string>
+	<string name="localization_theme_light_green">Svijetlo zelena</string>
+	<string name="localization_theme_lime">Vapno</string>
+	<string name="localization_theme_yellow">Žuta boja</string>
+	<string name="localization_theme_amber">jantar</string>
+	<string name="localization_theme_orange">naranča</string>
+	<string name="localization_theme_deep_orange">Tamno narančasta</string>
+</resources>

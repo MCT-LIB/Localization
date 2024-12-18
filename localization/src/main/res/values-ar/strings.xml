@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">لغة النظام</string>
+	<string name="localization_mode_follow_system">اتبع إعدادات النظام</string>
+	<string name="localization_mode_light">موضوع خفيف</string>
+	<string name="localization_mode_dark">موضوع مظلم</string>
+	<string name="localization_theme_red">أحمر</string>
+	<string name="localization_theme_pink">لون القرنفل</string>
+	<string name="localization_theme_purple">أرجواني</string>
+	<string name="localization_theme_deep_purple">الأرجواني العميق</string>
+	<string name="localization_theme_indigo">نيلي</string>
+	<string name="localization_theme_blue">أزرق</string>
+	<string name="localization_theme_light_blue">أزرق فاتح</string>
+	<string name="localization_theme_cyan">ازرق سماوي</string>
+	<string name="localization_theme_teal">بط نهري صغير</string>
+	<string name="localization_theme_green">أخضر</string>
+	<string name="localization_theme_light_green">اخضر فاتح</string>
+	<string name="localization_theme_lime">جير</string>
+	<string name="localization_theme_yellow">أصفر</string>
+	<string name="localization_theme_amber">العنبر</string>
+	<string name="localization_theme_orange">البرتقالي</string>
+	<string name="localization_theme_deep_orange">برتقالي عميق</string>
+</resources>

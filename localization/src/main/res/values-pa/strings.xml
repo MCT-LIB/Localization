@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">ਸਿਸਟਮ ਭਾਸ਼ਾ</string>
+	<string name="localization_mode_follow_system">ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦਾ ਪਾਲਣ ਕਰੋ</string>
+	<string name="localization_mode_light">ਹਲਕਾ ਥੀਮ</string>
+	<string name="localization_mode_dark">ਗੂੜ੍ਹਾ ਥੀਮ</string>
+	<string name="localization_theme_red">ਲਾਲ</string>
+	<string name="localization_theme_pink">ਗੁਲਾਬੀ</string>
+	<string name="localization_theme_purple">ਜਾਮਨੀ</string>
+	<string name="localization_theme_deep_purple">ਗੂੜਾ ਜਾਮਨੀ</string>
+	<string name="localization_theme_indigo">ਇੰਡੀਗੋ</string>
+	<string name="localization_theme_blue">ਨੀਲਾ</string>
+	<string name="localization_theme_light_blue">ਹਲਕਾ ਨੀਲਾ</string>
+	<string name="localization_theme_cyan">ਸਿਆਨ</string>
+	<string name="localization_theme_teal">ਟੀਲ</string>
+	<string name="localization_theme_green">ਹਰਾ</string>
+	<string name="localization_theme_light_green">ਫਿੱਕਾ ਹਰਾ</string>
+	<string name="localization_theme_lime">ਚੂਨਾ</string>
+	<string name="localization_theme_yellow">ਪੀਲਾ</string>
+	<string name="localization_theme_amber">ਅੰਬਰ</string>
+	<string name="localization_theme_orange">ਸੰਤਰਾ</string>
+	<string name="localization_theme_deep_orange">ਡੂੰਘੇ ਸੰਤਰੀ</string>
+</resources>

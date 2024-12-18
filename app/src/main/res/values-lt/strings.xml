@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">tema</string>
+	<string name="txt_dark_mode">Tamsus režimas</string>
+	<string name="txt_language">Kalba</string>
+	<string name="txt_change">Keisti</string>
+	<string name="txt_select_theme">Pasirinkite temą</string>
+	<string name="txt_select_dark_mode">Pasirinkite tamsųjį režimą</string>
+	<string name="txt_select_language">Pasirinkite kalbą</string>
+	<string name="txt_cancel">Atšaukti</string>
+	<string name="txt_save">Išsaugoti</string>
+</resources>

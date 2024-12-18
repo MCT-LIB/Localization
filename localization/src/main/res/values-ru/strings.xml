@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Системный язык</string>
+	<string name="localization_mode_follow_system">Следуйте настройкам системы</string>
+	<string name="localization_mode_light">Светлая тема</string>
+	<string name="localization_mode_dark">Темная тема</string>
+	<string name="localization_theme_red">Красный</string>
+	<string name="localization_theme_pink">Розовый</string>
+	<string name="localization_theme_purple">Фиолетовый</string>
+	<string name="localization_theme_deep_purple">Темно-фиолетовый</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Синий</string>
+	<string name="localization_theme_light_blue">Светло-синий</string>
+	<string name="localization_theme_cyan">Голубой</string>
+	<string name="localization_theme_teal">Бирюзовый</string>
+	<string name="localization_theme_green">Зеленый</string>
+	<string name="localization_theme_light_green">Светло-зеленый</string>
+	<string name="localization_theme_lime">Лайм</string>
+	<string name="localization_theme_yellow">Желтый</string>
+	<string name="localization_theme_amber">Янтарь</string>
+	<string name="localization_theme_orange">Апельсин</string>
+	<string name="localization_theme_deep_orange">Темно-оранжевый</string>
+</resources>

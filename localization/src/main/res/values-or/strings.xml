@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">ସିଷ୍ଟମ୍ ଭାଷା |</string>
+	<string name="localization_mode_follow_system">ସିଷ୍ଟମ୍ ସେଟିଂସମୂହ ଅନୁସରଣ କରନ୍ତୁ |</string>
+	<string name="localization_mode_light">ହାଲୁକା ଥିମ୍ |</string>
+	<string name="localization_mode_dark">ଗା ark ଥିମ୍ |</string>
+	<string name="localization_theme_red">ଲାଲ୍ |</string>
+	<string name="localization_theme_pink">ଗୋଲାପୀ |</string>
+	<string name="localization_theme_purple">ବାଇଗଣୀ |</string>
+	<string name="localization_theme_deep_purple">ଗାଢ଼ ବାଇଗଣୀ ରଂଗ</string>
+	<string name="localization_theme_indigo">ଇଣ୍ଡିଗୋ |</string>
+	<string name="localization_theme_blue">ନୀଳ</string>
+	<string name="localization_theme_light_blue">ହାଲୁକା ନୀଳ</string>
+	<string name="localization_theme_cyan">ସିଆନ୍ |</string>
+	<string name="localization_theme_teal">ଚା ’</string>
+	<string name="localization_theme_green">ସବୁଜ</string>
+	<string name="localization_theme_light_green">ହାଲୁକା ସବୁଜ |</string>
+	<string name="localization_theme_lime">ଚୂନ |</string>
+	<string name="localization_theme_yellow">ହଳଦିଆ</string>
+	<string name="localization_theme_amber">ଅମ୍ବର</string>
+	<string name="localization_theme_orange">କମଳା |</string>
+	<string name="localization_theme_deep_orange">ଗଭୀର କମଳା |</string>
+</resources>

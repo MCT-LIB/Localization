@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Sistēmas valoda</string>
+	<string name="localization_mode_follow_system">Sekojiet sistēmas iestatījumiem</string>
+	<string name="localization_mode_light">Gaiša tēma</string>
+	<string name="localization_mode_dark">Tumša tēma</string>
+	<string name="localization_theme_red">sarkans</string>
+	<string name="localization_theme_pink">Rozā</string>
+	<string name="localization_theme_purple">Violets</string>
+	<string name="localization_theme_deep_purple">Dziļi violets</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Zils</string>
+	<string name="localization_theme_light_blue">Gaiši zils</string>
+	<string name="localization_theme_cyan">Ciāna</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Zaļš</string>
+	<string name="localization_theme_light_green">Gaiši zaļš</string>
+	<string name="localization_theme_lime">Laims</string>
+	<string name="localization_theme_yellow">Dzeltens</string>
+	<string name="localization_theme_amber">Dzintars</string>
+	<string name="localization_theme_orange">apelsīns</string>
+	<string name="localization_theme_deep_orange">Dziļi oranžs</string>
+</resources>

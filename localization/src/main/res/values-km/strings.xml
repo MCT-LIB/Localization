@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">ភាសាប្រព័ន្ធ</string>
+	<string name="localization_mode_follow_system">អនុវត្តតាមការកំណត់ប្រព័ន្ធ</string>
+	<string name="localization_mode_light">ប្រធានបទពន្លឺ</string>
+	<string name="localization_mode_dark">ប្រធានបទងងឹត</string>
+	<string name="localization_theme_red">ក្រហម</string>
+	<string name="localization_theme_pink">ផ្កាឈូក</string>
+	<string name="localization_theme_purple">ពណ៌ស្វាយ</string>
+	<string name="localization_theme_deep_purple">ពណ៌ស្វាយ​ក្រ​ម៉ៅ</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">ខៀវ</string>
+	<string name="localization_theme_light_blue">ពណ៌ខៀវ​ស្រាល</string>
+	<string name="localization_theme_cyan">ខៀវ</string>
+	<string name="localization_theme_teal">ទឹកប្រៃ</string>
+	<string name="localization_theme_green">បៃតង</string>
+	<string name="localization_theme_light_green">បៃតងស្រាល</string>
+	<string name="localization_theme_lime">កំបោរ</string>
+	<string name="localization_theme_yellow">លឿង</string>
+	<string name="localization_theme_amber">អំពិល</string>
+	<string name="localization_theme_orange">ពណ៌ទឹកក្រូច</string>
+	<string name="localization_theme_deep_orange">ពណ៌ទឹកក្រូចជ្រៅ</string>
+</resources>

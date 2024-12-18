@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Stelseltaal</string>
+	<string name="localization_mode_follow_system">Volg stelselinstellings</string>
+	<string name="localization_mode_light">Ligte tema</string>
+	<string name="localization_mode_dark">Donker tema</string>
+	<string name="localization_theme_red">Rooi</string>
+	<string name="localization_theme_pink">Pienk</string>
+	<string name="localization_theme_purple">Pers</string>
+	<string name="localization_theme_deep_purple">Diep pers</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Blou</string>
+	<string name="localization_theme_light_blue">Ligblou</string>
+	<string name="localization_theme_cyan">Siaan</string>
+	<string name="localization_theme_teal">Blauwgroen</string>
+	<string name="localization_theme_green">Groen</string>
+	<string name="localization_theme_light_green">Ligte groen</string>
+	<string name="localization_theme_lime">Lemmetjie</string>
+	<string name="localization_theme_yellow">Geel</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Oranje</string>
+	<string name="localization_theme_deep_orange">Diep oranje</string>
+</resources>

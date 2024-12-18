@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Тема</string>
+	<string name="txt_dark_mode">Караңгы режим</string>
+	<string name="txt_language">Тил</string>
+	<string name="txt_change">өзгөртүү</string>
+	<string name="txt_select_theme">Теманы тандоо</string>
+	<string name="txt_select_dark_mode">Караңгы режимди тандаңыз</string>
+	<string name="txt_select_language">Тилди тандаңыз</string>
+	<string name="txt_cancel">Жокко чыгаруу</string>
+	<string name="txt_save">Сактоо</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Tizim tili</string>
+	<string name="localization_mode_follow_system">Tizim sozlamalariga rioya qiling</string>
+	<string name="localization_mode_light">Engil mavzu</string>
+	<string name="localization_mode_dark">Qorong\'i mavzu</string>
+	<string name="localization_theme_red">Qizil</string>
+	<string name="localization_theme_pink">Pushti</string>
+	<string name="localization_theme_purple">Siyohrang</string>
+	<string name="localization_theme_deep_purple">Chuqur binafsha</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Moviy</string>
+	<string name="localization_theme_light_blue">Ochiq ko\'k</string>
+	<string name="localization_theme_cyan">Moviy</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Yashil</string>
+	<string name="localization_theme_light_green">Och yashil</string>
+	<string name="localization_theme_lime">Laym</string>
+	<string name="localization_theme_yellow">Sariq</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">apelsin</string>
+	<string name="localization_theme_deep_orange">Chuqur apelsin</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Kerfismál</string>
+	<string name="localization_mode_follow_system">Fylgdu kerfisstillingum</string>
+	<string name="localization_mode_light">Létt þema</string>
+	<string name="localization_mode_dark">Dökkt þema</string>
+	<string name="localization_theme_red">Rauður</string>
+	<string name="localization_theme_pink">Bleikur</string>
+	<string name="localization_theme_purple">Fjólublátt</string>
+	<string name="localization_theme_deep_purple">Djúp fjólublár</string>
+	<string name="localization_theme_indigo">Indigo</string>
+	<string name="localization_theme_blue">Blár</string>
+	<string name="localization_theme_light_blue">Ljósblár</string>
+	<string name="localization_theme_cyan">Blár</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Grænn</string>
+	<string name="localization_theme_light_green">Ljós grænn</string>
+	<string name="localization_theme_lime">Límóna</string>
+	<string name="localization_theme_yellow">Gulur</string>
+	<string name="localization_theme_amber">Amber</string>
+	<string name="localization_theme_orange">Appelsínugult</string>
+	<string name="localization_theme_deep_orange">Djúp appelsínugult</string>
+</resources>

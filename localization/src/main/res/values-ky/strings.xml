@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Система тили</string>
+	<string name="localization_mode_follow_system">Системанын жөндөөлөрүн аткарыңыз</string>
+	<string name="localization_mode_light">Жарык тема</string>
+	<string name="localization_mode_dark">Караңгы тема</string>
+	<string name="localization_theme_red">Кызыл</string>
+	<string name="localization_theme_pink">Кызгылт</string>
+	<string name="localization_theme_purple">Кызгылт көк</string>
+	<string name="localization_theme_deep_purple">Кочкул кызгылт</string>
+	<string name="localization_theme_indigo">Индиго</string>
+	<string name="localization_theme_blue">Көк</string>
+	<string name="localization_theme_light_blue">Ачык көк</string>
+	<string name="localization_theme_cyan">Сиан</string>
+	<string name="localization_theme_teal">Teal</string>
+	<string name="localization_theme_green">Жашыл</string>
+	<string name="localization_theme_light_green">Ачык жашыл</string>
+	<string name="localization_theme_lime">Лайм</string>
+	<string name="localization_theme_yellow">Сары</string>
+	<string name="localization_theme_amber">Эмбер</string>
+	<string name="localization_theme_orange">Ачык күрөң</string>
+	<string name="localization_theme_deep_orange">Терең кызгылт сары</string>
+</resources>

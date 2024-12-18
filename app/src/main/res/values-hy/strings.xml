@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Թեմա</string>
+	<string name="txt_dark_mode">Մութ ռեժիմ</string>
+	<string name="txt_language">Լեզու</string>
+	<string name="txt_change">Փոփոխություն</string>
+	<string name="txt_select_theme">Ընտրեք թեմա</string>
+	<string name="txt_select_dark_mode">Ընտրեք մութ ռեժիմ</string>
+	<string name="txt_select_language">Ընտրեք լեզուն</string>
+	<string name="txt_cancel">Չեղարկել</string>
+	<string name="txt_save">Պահպանել</string>
+</resources>

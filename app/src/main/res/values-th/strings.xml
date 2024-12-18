@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">ธีม</string>
+	<string name="txt_dark_mode">โหมดมืด</string>
+	<string name="txt_language">ภาษา</string>
+	<string name="txt_change">เปลี่ยน</string>
+	<string name="txt_select_theme">เลือกธีม</string>
+	<string name="txt_select_dark_mode">เลือกโหมดมืด</string>
+	<string name="txt_select_language">เลือกภาษา</string>
+	<string name="txt_cancel">ยกเลิก</string>
+	<string name="txt_save">บันทึก</string>
+</resources>

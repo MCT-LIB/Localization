@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Mørk modus</string>
+	<string name="txt_language">Språk</string>
+	<string name="txt_change">Endre</string>
+	<string name="txt_select_theme">Velg tema</string>
+	<string name="txt_select_dark_mode">Velg mørk modus</string>
+	<string name="txt_select_language">Velg språk</string>
+	<string name="txt_cancel">Kansellere</string>
+	<string name="txt_save">Spare</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">கணினி மொழி</string>
+	<string name="localization_mode_follow_system">கணினி அமைப்புகளைப் பின்பற்றவும்</string>
+	<string name="localization_mode_light">ஒளி தீம்</string>
+	<string name="localization_mode_dark">இருண்ட தீம்</string>
+	<string name="localization_theme_red">சிவப்பு</string>
+	<string name="localization_theme_pink">இளஞ்சிவப்பு</string>
+	<string name="localization_theme_purple">ஊதா</string>
+	<string name="localization_theme_deep_purple">அடர் ஊதா</string>
+	<string name="localization_theme_indigo">இண்டிகோ</string>
+	<string name="localization_theme_blue">நீலம்</string>
+	<string name="localization_theme_light_blue">வெளிர் நீலம்</string>
+	<string name="localization_theme_cyan">சியான்</string>
+	<string name="localization_theme_teal">டீல்</string>
+	<string name="localization_theme_green">பச்சை</string>
+	<string name="localization_theme_light_green">வெளிர் பச்சை</string>
+	<string name="localization_theme_lime">சுண்ணாம்பு</string>
+	<string name="localization_theme_yellow">மஞ்சள்</string>
+	<string name="localization_theme_amber">அம்பர்</string>
+	<string name="localization_theme_orange">ஆரஞ்சு</string>
+	<string name="localization_theme_deep_orange">அடர் ஆரஞ்சு</string>
+</resources>

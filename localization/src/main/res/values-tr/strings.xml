@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Sistem dili</string>
+	<string name="localization_mode_follow_system">Sistem ayarlarını takip edin</string>
+	<string name="localization_mode_light">Işık teması</string>
+	<string name="localization_mode_dark">Koyu tema</string>
+	<string name="localization_theme_red">Kırmızı</string>
+	<string name="localization_theme_pink">Pembe</string>
+	<string name="localization_theme_purple">Mor</string>
+	<string name="localization_theme_deep_purple">Koyu mor</string>
+	<string name="localization_theme_indigo">Çivit mavisi</string>
+	<string name="localization_theme_blue">Mavi</string>
+	<string name="localization_theme_light_blue">Açık mavi</string>
+	<string name="localization_theme_cyan">Camgöbeği</string>
+	<string name="localization_theme_teal">turkuaz</string>
+	<string name="localization_theme_green">Yeşil</string>
+	<string name="localization_theme_light_green">Açık yeşil</string>
+	<string name="localization_theme_lime">Kireç</string>
+	<string name="localization_theme_yellow">Sarı</string>
+	<string name="localization_theme_amber">kehribar</string>
+	<string name="localization_theme_orange">Turuncu</string>
+	<string name="localization_theme_deep_orange">Koyu turuncu</string>
+</resources>

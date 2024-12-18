@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Tema</string>
+	<string name="txt_dark_mode">Donker modus</string>
+	<string name="txt_language">Taal</string>
+	<string name="txt_change">Verander</string>
+	<string name="txt_select_theme">Kies tema</string>
+	<string name="txt_select_dark_mode">Kies donker modus</string>
+	<string name="txt_select_language">Kies taal</string>
+	<string name="txt_cancel">Kanselleer</string>
+	<string name="txt_save">Stoor</string>
+</resources>

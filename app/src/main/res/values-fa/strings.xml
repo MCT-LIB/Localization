@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">تم</string>
+	<string name="txt_dark_mode">حالت تاریک</string>
+	<string name="txt_language">زبان</string>
+	<string name="txt_change">تغییر دهید</string>
+	<string name="txt_select_theme">موضوع را انتخاب کنید</string>
+	<string name="txt_select_dark_mode">حالت تاریک را انتخاب کنید</string>
+	<string name="txt_select_language">زبان را انتخاب کنید</string>
+	<string name="txt_cancel">لغو کنید</string>
+	<string name="txt_save">ذخیره کنید</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">Мова сістэмы</string>
+	<string name="localization_mode_follow_system">Сачыце за наладамі сістэмы</string>
+	<string name="localization_mode_light">Светлая тэма</string>
+	<string name="localization_mode_dark">Цёмная тэма</string>
+	<string name="localization_theme_red">Чырвоны</string>
+	<string name="localization_theme_pink">Ружовы</string>
+	<string name="localization_theme_purple">Фіялетавы</string>
+	<string name="localization_theme_deep_purple">Глыбокі фіялетавы</string>
+	<string name="localization_theme_indigo">Індыга</string>
+	<string name="localization_theme_blue">Сіні</string>
+	<string name="localization_theme_light_blue">Светлаблакітны</string>
+	<string name="localization_theme_cyan">Блакітны</string>
+	<string name="localization_theme_teal">Чыркаваты</string>
+	<string name="localization_theme_green">Зялёны</string>
+	<string name="localization_theme_light_green">Светла-зялёны</string>
+	<string name="localization_theme_lime">Вапна</string>
+	<string name="localization_theme_yellow">Жоўты</string>
+	<string name="localization_theme_amber">Бурштын</string>
+	<string name="localization_theme_orange">Аранжавы</string>
+	<string name="localization_theme_deep_orange">Насычаны аранжавы</string>
+</resources>

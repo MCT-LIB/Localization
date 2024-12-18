@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">Thema</string>
+	<string name="txt_dark_mode">Dunkler Modus</string>
+	<string name="txt_language">Sprache</string>
+	<string name="txt_change">Ändern</string>
+	<string name="txt_select_theme">Thema auswählen</string>
+	<string name="txt_select_dark_mode">Wählen Sie den Dunkelmodus</string>
+	<string name="txt_select_language">Sprache auswählen</string>
+	<string name="txt_cancel">Stornieren</string>
+	<string name="txt_save">Speichern</string>
+</resources>

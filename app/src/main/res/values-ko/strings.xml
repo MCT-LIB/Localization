@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="txt_theme">주제</string>
+	<string name="txt_dark_mode">다크 모드</string>
+	<string name="txt_language">언어</string>
+	<string name="txt_change">변화</string>
+	<string name="txt_select_theme">테마 선택</string>
+	<string name="txt_select_dark_mode">다크 모드 선택</string>
+	<string name="txt_select_language">언어 선택</string>
+	<string name="txt_cancel">취소</string>
+	<string name="txt_save">구하다</string>
+</resources>

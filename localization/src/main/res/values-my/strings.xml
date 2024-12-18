@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="localization_system_language">စနစ်ဘာသာစကား</string>
+	<string name="localization_mode_follow_system">စနစ်ဆက်တင်များကို လိုက်နာပါ။</string>
+	<string name="localization_mode_light">အလင်းအပြင်အဆင်</string>
+	<string name="localization_mode_dark">အမှောင် အပြင်အဆင်</string>
+	<string name="localization_theme_red">အနီေရာင်</string>
+	<string name="localization_theme_pink">ပန်းရောင်</string>
+	<string name="localization_theme_purple">ခရမ်းရောင်</string>
+	<string name="localization_theme_deep_purple">ခရမ်းရောင်</string>
+	<string name="localization_theme_indigo">မဲနယ်</string>
+	<string name="localization_theme_blue">အပြာ</string>
+	<string name="localization_theme_light_blue">အပြာနုရောင်</string>
+	<string name="localization_theme_cyan">အစိမ်းနုရောင်</string>
+	<string name="localization_theme_teal">စိမ်းပြာရောင်</string>
+	<string name="localization_theme_green">အစိမ်းရောင်</string>
+	<string name="localization_theme_light_green">အစိမ်းဖျော့ရောင်</string>
+	<string name="localization_theme_lime">သံပုရာသီး</string>
+	<string name="localization_theme_yellow">အဝါရောင်</string>
+	<string name="localization_theme_amber">ပယင်း</string>
+	<string name="localization_theme_orange">လိမ္မော်သီး</string>
+	<string name="localization_theme_deep_orange">လိမ္မော်ရောင်</string>
+</resources>
