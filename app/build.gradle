@@ -41,8 +41,8 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
     implementation 'com.google.android.material:material:1.12.0'
 
-    implementation 'com.github.MCT-LIB:BaseUI:1.2.5'
-    implementation 'com.github.MCT-LIB:BaseUi-Binding:1.1.0'
+    implementation 'com.github.MCT-LIB:BaseUI:1.2.9'
+    implementation 'com.github.MCT-LIB:BaseUi-Binding:1.1.1'
     implementation "io.github.cymchad:BaseRecyclerViewAdapterHelper4:4.1.4"
 
     testImplementation 'junit:junit:4.13.2'
