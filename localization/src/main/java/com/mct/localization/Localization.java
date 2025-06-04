@@ -71,6 +71,7 @@ public class Localization {
         Log.e(TAG, "attachBaseContext: " + activity.getClass().getName());
         Localization.init(base);
         updateResources(base);
+        updateAppCompatDelegates();
         return base;
     }
 
@@ -78,8 +79,7 @@ public class Localization {
         Log.e(TAG, "attachBaseContext: " + application.getClass().getName());
         Localization.init(base);
         ApplicationHolder.init(application);
-        AppCompatDelegate.setDefaultNightMode(Localization.getDarkMode().getRealNightMode());
-        AppCompatDelegate.setApplicationLocales(Localization.getLanguage().getLocaleListCompat());
+        updateAppCompatDelegates();
         application.registerActivityLifecycleCallbacks(new LifecycleCallbacks() {
             @Override
             public void onActivityPreCreated(@NonNull Activity activity, @Nullable Bundle savedInstanceState) {
@@ -94,8 +94,7 @@ public class Localization {
         Log.e(TAG, "attachBaseContext: " + application.getClass().getName());
         Localization.init(base);
         ApplicationHolder.init(application);
-        AppCompatDelegate.setDefaultNightMode(Localization.getDarkMode().getRealNightMode());
-        AppCompatDelegate.setApplicationLocales(Localization.getLanguage().getLocaleListCompat());
+        updateAppCompatDelegates();
         return base;
     }
 
@@ -141,6 +140,11 @@ public class Localization {
             }
             values.add(value);
         }
+    }
+
+    private static void updateAppCompatDelegates() {
+        AppCompatDelegate.setDefaultNightMode(Localization.getDarkMode().getRealNightMode());
+        AppCompatDelegate.setApplicationLocales(Localization.getLanguage().getLocaleListCompat());
     }
 
     private static void updateResources(@NonNull Context context) {
